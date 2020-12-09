@@ -61,6 +61,7 @@ $ # Terminal 2
 $ cd posty-poster-project/posty-poster-data
 $ gulp connect
 ```
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/orhant/posty-poster/)
 
 Open the site [http://localhost:60571/](http://localhost:60571/).
 
